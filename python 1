@@ -1,0 +1,30 @@
+#even or odd number
+
+#variables...data
+#name..storage
+#type casting
+#23.5 3.9"5"..integer
+num=int(input("Enter a number:"))
+print(num)
+#quadrant problem
+#x,y input
+#result: 1,2,3,4
+#-10,10 -> 2
+#step1: input
+#variables
+x=int(input("Enter x:"))
+#step2: if
+#step3: print result i.e. 1,2,3,4
+if x > 0 and y>0
+    print("quadrant:1")
+#step3: print result i.e. 1,2,3,4
+num=int(input("enter a number:"))
+print(num)
+if X > 0 and y > 0:
+    print("quadrant:1")
+elif x > 0 and y < 0:
+    print("quadrant 4")
+elif x > 0 and y < 0:
+    print("quadrant 3")
+else:
+    print("quadrant 2")
